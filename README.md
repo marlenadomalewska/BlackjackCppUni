@@ -5,5 +5,5 @@ Disclaimer: I do not own the music and used backgrounds, they belong to SEGA.
 
 How to open the game: go to the Debug folder and open "Blackjack.exe"
 
-![Title screen] (https://github.com/fujimen/BlackjackCppUni/blob/master/Titlescr.png)
-![Main screen] (https://github.com/fujimen/BlackjackCppUni/blob/master/maingame.png)
+![Title screen] (Titlescr.png)
+![Main screen] (maingame.png)
