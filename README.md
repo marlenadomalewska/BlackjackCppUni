@@ -1,5 +1,5 @@
 # BlackjackCppUni
-University Project for which I've made a blackjack game with tokens system, written in C++. It was made with .NET framework. 
+University Project for which I've made a blackjack game with tokens system, written in C++. It was made with .NET framework in Microsoft Visual Studio 2008. 
 The following project was not made for any commercial use.
 Disclaimer: I do not own the music and used backgrounds, they belong to SEGA.
 
